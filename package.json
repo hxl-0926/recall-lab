@@ -1,0 +1,15 @@
+{
+  "name": "recall-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Grounded study cards, interactive retrieval practice and transactional SQLite spaced repetition.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.14.0"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/cli.mjs"
+  },
+  "license": "MIT"
+}
